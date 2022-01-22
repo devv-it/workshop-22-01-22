@@ -34,7 +34,7 @@ img {
   border-radius: 50%;
   margin-bottom: 2.5rem;
   border: 3px solid #f6f6f6;
-  box-shadow: 0px 16px 40px rgba(63, 191, 191, 0.8);
+  box-shadow: 0px 5px 40px #696a6a;
   box-sizing: content-box;
 }
 
@@ -46,8 +46,9 @@ header {
 header p {
   font-weight: 300;
   font-size: 1.25rem;
-  margin-bottom: 0.25rem;
+  margin-top: 0.35rem;
   color: #525252;
+  max-width: 600px;
 }
 
 header h1 {
